@@ -1,85 +1,35 @@
-# LeetCode C++ Solutions 🚀
+# 🚀 LeetCode C++ Solutions
 
-Welcome to my **LeetCode C++ Solutions** repository!
+My daily journey of solving LeetCode problems using C++ and improving my Data Structures & Algorithms skills.
 
-This repository contains my daily **LeetCode problem-solving journey using C++**, with solutions organized by day and problem.
+## 📊 DSA Progress
 
-## 🎯 Goals
+| Day    | LeetCode | Problem                                                     | Difficulty | Status |
+| ------ | -------- | ----------------------------------------------------------- | ---------- | ------ |
+| Day 01 | #2996    | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy       | ✅      |
+| Day 02 | #2958    | Length of Longest Subarray With at Most K Frequency         | Medium     | ✅      |
 
-* 🔥 Maintain a consistent LeetCode streak
-* 🧠 Improve Data Structures & Algorithms skills
-* 💻 Strengthen C++ programming
-* 🚀 Improve problem-solving skills
-* 📚 Track my daily coding progress
+## 📁 Solutions
 
-## 📂 Repository Structure
+* [Day 01 - Smallest Missing Integer](Day-01-Smallest-Missing-Integer/)
+* [Day 02 - Length of Longest Subarray With at Most K Frequency](Day-02-Length-of-Longest-Subarray-With-at-Most-K-Frequency/)
 
-```text
-LeetCode-CPP-Solutions/
-│
-├── Day-01-Smallest-Missing-Integer/
-│   └── Solution.cpp
-│
-├── Day-02-Problem-Name/
-│   └── Solution.cpp
-│
-└── README.md
-```
+## 🔥 Progress
 
-## 📊 LeetCode Progress
+**2 Days Completed!**
 
-| Day | LeetCode | Problem                                                     | Language |
-| --- | -------- | ----------------------------------------------------------- | -------- |
-| 01  | #2996    | Smallest Missing Integer Greater Than Sequential Prefix Sum | C++      |
+I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 
-## 🧩 Day 01 — LeetCode #2996
+## 🎯 Goal
 
-### Smallest Missing Integer Greater Than Sequential Prefix Sum
+* Improve problem-solving skills
+* Strengthen C++ fundamentals
+* Learn Data Structures & Algorithms
+* Maintain a consistent coding habit
+* Build a strong GitHub DSA portfolio
 
-**Language:** C++
-
-**Solution:** [`Solution.cpp`](Day-01-Smallest-Missing-Integer/Solution.cpp)
-
-### 💡 Approach
-
-1. Find the longest sequential prefix of the array.
-2. Calculate the sum of the sequential prefix.
-3. Store all elements in an `unordered_set`.
-4. Start checking from the calculated sum.
-5. If the number already exists, increment it.
-6. Return the first missing integer.
-
-### ⏱️ Complexity
-
-* **Time Complexity:** `O(n)` average
-* **Space Complexity:** `O(n)`
-
-## 🔥 Daily Streak
-
-### Day 01 ✅
-
-I am solving LeetCode problems consistently to improve my:
-
-* Data Structures & Algorithms
-* C++ programming
-* Problem-solving skills
-* Competitive programming
-
-More solutions will be added as I continue my daily LeetCode journey.
-
-## 🛠️ Language
+## 💻 Language
 
 **C++**
 
-## 📚 Topics
-
-* Arrays
-* Hashing
-* Prefix Sum
-* Data Structures
-* Algorithms
-* Problem Solving
-
----
-
-⭐ **Keep Learning. Keep Coding. Keep Improving.** 🚀
+> One problem a day. One step closer to becoming a better developer. 🚀
