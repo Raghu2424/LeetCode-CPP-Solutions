@@ -11,6 +11,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 03 | #2213    | Longest Substring of One Repeating Character                | Hard       | ✅      |
 | Day 04 | #3090    | Maximum Length Substring With Two Occurrences               | Easy       | ✅      |
 | Day 05 | —        | Longest Subsequence With Non-Zero Bitwise XOR               | —          | ✅      |
+| Day 06 | #2029    | Stone Game IX                                               | Medium     | ✅      |
 
 ## 📁 Solutions
 
@@ -19,10 +20,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 03 - Longest Substring of One Repeating Character](Day-03-Longest-Substring-of-One-Repeating-Character/)
 * [Day 04 - Maximum Length Substring With Two Occurrences](Day-04-Maximum-Length-Substring-With-Two-Occurrences/)
 * [Day 05 - Longest Subsequence With Non-Zero Bitwise XOR](Day-05-Longest-Subsequence-With-Non-Zero-Bitwise-XOR/)
+* [Day 06 - Stone Game IX](Day-06-Stone-Game-IX/)
 
 ## 🔥 Progress
 
-**5 Days Completed!**
+**6 Days Completed!**
 
 I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 
@@ -41,8 +43,11 @@ I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 ## 📚 Topics
 
 * Arrays
-* Bitwise XOR
 * Bit Manipulation
+* Hashing
+* Sliding Window
+* Segment Tree
+* Game Theory
 * Data Structures & Algorithms
 * Problem Solving
 
