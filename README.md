@@ -14,6 +14,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 06 | #2029    | Stone Game IX                                               | Medium     | ✅      |
 | Day 07 | #1563    | Stone Game V                                                | Hard       | ✅      |
 | Day 08 | —        | Largest Integer                                             | —          | ✅      |
+| Day 09 | #1386    | Cinema Seat Allocation                                      | Medium     | ✅      |
 
 ## 📁 Solutions
 
@@ -25,10 +26,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 06 - Stone Game IX](Day-06-Stone-Game-IX/)
 * [Day 07 - Stone Game V](Day-07-Stone-Game-V/)
 * [Day 08 - Largest Integer](Day-08-Largest-Integer/)
+* [Day 09 - Cinema Seat Allocation](Day-09-Cinema-Seat-Allocation/)
 
 ## 🔥 Progress
 
-**8 Days Completed!**
+**9 Days Completed!**
 
 I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 
@@ -47,14 +49,14 @@ I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 ## 📚 Topics
 
 * Arrays
-* Strings
-* Sliding Window
 * Hashing
 * Bit Manipulation
+* Sliding Window
 * Segment Tree
 * Dynamic Programming
 * Prefix Sum
 * Game Theory
+* Bitmasking
 * Data Structures & Algorithms
 * Problem Solving
 
