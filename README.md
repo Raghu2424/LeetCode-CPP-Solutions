@@ -15,6 +15,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 07 | #1563    | Stone Game V                                                | Hard       | ✅      |
 | Day 08 | —        | Largest Integer                                             | —          | ✅      |
 | Day 09 | #1386    | Cinema Seat Allocation                                      | Medium     | ✅      |
+| Day 10 | #3069    | Distribute Elements Into Two Arrays I                       | Easy       | ✅      |
 
 ## 📁 Solutions
 
@@ -27,10 +28,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 07 - Stone Game V](Day-07-Stone-Game-V/)
 * [Day 08 - Largest Integer](Day-08-Largest-Integer/)
 * [Day 09 - Cinema Seat Allocation](Day-09-Cinema-Seat-Allocation/)
+* [Day 10 - Distribute Elements Into Two Arrays I](Day-10-Distribute-Elements-Into-Two-Arrays-I/)
 
 ## 🔥 Progress
 
-**9 Days Completed!**
+**10 Days Completed!**
 
 I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 
@@ -49,6 +51,7 @@ I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 ## 📚 Topics
 
 * Arrays
+* Strings
 * Hashing
 * Bit Manipulation
 * Sliding Window
