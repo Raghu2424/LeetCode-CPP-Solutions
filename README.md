@@ -17,6 +17,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 09 | #1386 | Cinema Seat Allocation | Medium | ✅ |
 | Day 10 | #3069 | Distribute Elements Into Two Arrays I | Easy | ✅ |
 | Day 11 | #3116 | Kth Smallest Amount With Single Denomination Combination | Hard | ✅ |
+| Day 12 | #3622 | Check Divisibility by Digit Sum and Product | Easy | ✅ |
 
 ## 📁 Solutions
 
@@ -31,10 +32,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 09 - Cinema Seat Allocation](Day-09-Cinema-Seat-Allocation/)
 - [Day 10 - Distribute Elements Into Two Arrays I](Day-10-Distribute-Elements-Into-Two-Arrays-I/)
 - [Day 11 - Kth Smallest Amount With Single Denomination Combination](Day-11-Kth-Smallest-Amount-With-Single-Denomination-Combination/)
+- [Day 12 - Check Divisibility by Digit Sum and Product](Day-12-Check-Divisibility-by-Digit-Sum-and-Product/)
 
 ## 🔥 Progress
 
-**11 Days Completed!**
+**12 Days Completed!**
 
 I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 
