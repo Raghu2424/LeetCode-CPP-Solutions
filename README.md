@@ -19,6 +19,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 11 | #3116 | Kth Smallest Amount With Single Denomination Combination | Hard | ✅ |
 | Day 12 | #3622 | Check Divisibility by Digit Sum and Product | Easy | ✅ |
 | Day 13 | #1927 | Sum Game | Medium | ✅ |
+| Day 14 | #1872 | Stone Game VIII | Hard | ✅ |
 
 ## 📁 Solutions
 
@@ -35,10 +36,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 11 - Kth Smallest Amount With Single Denomination Combination](Day-11-Kth-Smallest-Amount-With-Single-Denomination-Combination/)
 - [Day 12 - Check Divisibility by Digit Sum and Product](Day-12-Check-Divisibility-by-Digit-Sum-and-Product/)
 - [Day 13 - Sum Game](Day-13-Sum-Game/)
+- [Day 14 - Stone Game VIII](Day-14-Stone-Game-VIII/)
 
 ## 🔥 Progress
 
-**13 Days Completed!**
+**14 Days Completed!**
 
 I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 
