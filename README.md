@@ -20,6 +20,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 12 | #3622 | Check Divisibility by Digit Sum and Product | Easy | ✅ |
 | Day 13 | #1927 | Sum Game | Medium | ✅ |
 | Day 14 | #1872 | Stone Game VIII | Hard | ✅ |
+| Day 15 | #3718 | Smallest Missing Multiple of K | Easy | ✅ |
 
 ## 📁 Solutions
 
@@ -37,10 +38,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 12 - Check Divisibility by Digit Sum and Product](Day-12-Check-Divisibility-by-Digit-Sum-and-Product/)
 - [Day 13 - Sum Game](Day-13-Sum-Game/)
 - [Day 14 - Stone Game VIII](Day-14-Stone-Game-VIII/)
+- [Day 15 - Smallest Missing Multiple of K](Day-15-Smallest-Missing-Multiple-of-K/)
 
 ## 🔥 Progress
 
-**14 Days Completed!**
+**15 Days Completed!**
 
 I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 
