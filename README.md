@@ -22,6 +22,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 14 | #1872 | Stone Game VIII | Hard | ✅ |
 | Day 15 | #3718 | Smallest Missing Multiple of K | Easy | ✅ |
 | Day 16 | #2904 | Shortest and Lexicographically Smallest Beautiful String | Medium | ✅ |
+| Day 17 | #3719 | Lexicographically Smallest Permutation Greater Than Target | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -41,10 +42,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 14 - Stone Game VIII](Day-14-Stone-Game-VIII/)
 - [Day 15 - Smallest Missing Multiple of K](Day-15-Smallest-Missing-Multiple-of-K/)
 - [Day 16 - Shortest and Lexicographically Smallest Beautiful String](Day-16-Shortest-and-Lexicographically-Smallest-Beautiful-String/)
+- [Day 17 - Lexicographically Smallest Permutation Greater Than Target](Day-17-Lexicographically-Smallest-Permutation-Greater-Than-Target/)
 
 ## 🔥 Progress
 
-**16 Days Completed!**
+**17 Days Completed!**
 
 I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 
@@ -71,7 +73,7 @@ I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 - Dynamic Programming
 - Prefix Sum
 - Binary Search
-- Inclusion-Exclusion
+- Greedy
 - Number Theory
 - Game Theory
 - Bitmasking
