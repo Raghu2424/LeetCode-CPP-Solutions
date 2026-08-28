@@ -23,6 +23,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 15 | #3718 | Smallest Missing Multiple of K | Easy | ✅ |
 | Day 16 | #2904 | Shortest and Lexicographically Smallest Beautiful String | Medium | ✅ |
 | Day 17 | #3719 | Lexicographically Smallest Permutation Greater Than Target | Medium | ✅ |
+| Day 18 | — | Lexicographically Smallest Palindromic Permutation | — | ✅ |
 
 ## 📁 Solutions
 
@@ -43,10 +44,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 15 - Smallest Missing Multiple of K](Day-15-Smallest-Missing-Multiple-of-K/)
 - [Day 16 - Shortest and Lexicographically Smallest Beautiful String](Day-16-Shortest-and-Lexicographically-Smallest-Beautiful-String/)
 - [Day 17 - Lexicographically Smallest Permutation Greater Than Target](Day-17-Lexicographically-Smallest-Permutation-Greater-Than-Target/)
+- [Day 18 - Lexicographically Smallest Palindromic Permutation](Day-18-Lexicographically-Smallest-Palindromic-Permutation/)
 
 ## 🔥 Progress
 
-**17 Days Completed!**
+**18 Days Completed!**
 
 I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 
@@ -67,7 +69,6 @@ I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 - Arrays
 - Strings
 - Hashing
-- Bit Manipulation
 - Sliding Window
 - Segment Tree
 - Dynamic Programming
@@ -76,7 +77,7 @@ I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 - Greedy
 - Number Theory
 - Game Theory
-- Bitmasking
+- Bit Manipulation
 - Data Structures & Algorithms
 - Problem Solving
 
