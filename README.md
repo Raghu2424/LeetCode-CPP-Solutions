@@ -22,8 +22,9 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 14 | #1872 | Stone Game VIII | Hard | ✅ |
 | Day 15 | #3718 | Smallest Missing Multiple of K | Easy | ✅ |
 | Day 16 | #2904 | Shortest and Lexicographically Smallest Beautiful String | Medium | ✅ |
-| Day 17 | #3719 | Lexicographically Smallest Permutation Greater Than Target | Medium | ✅ |
+| Day 17 | — | Lexicographically Smallest Permutation Greater Than Target | — | ✅ |
 | Day 18 | — | Lexicographically Smallest Palindromic Permutation | — | ✅ |
+| Day 19 | #2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -45,10 +46,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 16 - Shortest and Lexicographically Smallest Beautiful String](Day-16-Shortest-and-Lexicographically-Smallest-Beautiful-String/)
 - [Day 17 - Lexicographically Smallest Permutation Greater Than Target](Day-17-Lexicographically-Smallest-Permutation-Greater-Than-Target/)
 - [Day 18 - Lexicographically Smallest Palindromic Permutation](Day-18-Lexicographically-Smallest-Palindromic-Permutation/)
+- [Day 19 - Make Lexicographically Smallest Array by Swapping Elements](Day-19-Make-Lexicographically-Smallest-Array-by-Swapping-Elements/)
 
 ## 🔥 Progress
 
-**18 Days Completed!**
+**19 Days Completed!**
 
 I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 
@@ -70,12 +72,11 @@ I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 - Strings
 - Hashing
 - Sliding Window
-- Segment Tree
+- Sorting
+- Greedy
 - Dynamic Programming
 - Prefix Sum
 - Binary Search
-- Greedy
-- Number Theory
 - Game Theory
 - Bit Manipulation
 - Data Structures & Algorithms
