@@ -4,63 +4,65 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 
 ## 📊 DSA Progress
 
-| Day | LeetCode | Problem | Difficulty | Status |
-|---|---|---|---|---|
-| Day 01 | #2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | ✅ |
-| Day 02 | #2958 | Length of Longest Subarray With at Most K Frequency | Medium | ✅ |
-| Day 03 | #2213 | Longest Substring of One Repeating Character | Hard | ✅ |
-| Day 04 | #3090 | Maximum Length Substring With Two Occurrences | Easy | ✅ |
-| Day 05 | — | Longest Subsequence With Non-Zero Bitwise XOR | — | ✅ |
-| Day 06 | #2029 | Stone Game IX | Medium | ✅ |
-| Day 07 | #1563 | Stone Game V | Hard | ✅ |
-| Day 08 | — | Largest Integer | — | ✅ |
-| Day 09 | #1386 | Cinema Seat Allocation | Medium | ✅ |
-| Day 10 | #3069 | Distribute Elements Into Two Arrays I | Easy | ✅ |
-| Day 11 | #3116 | Kth Smallest Amount With Single Denomination Combination | Hard | ✅ |
-| Day 12 | #3622 | Check Divisibility by Digit Sum and Product | Easy | ✅ |
-| Day 13 | #1927 | Sum Game | Medium | ✅ |
-| Day 14 | #1872 | Stone Game VIII | Hard | ✅ |
-| Day 15 | #3718 | Smallest Missing Multiple of K | Easy | ✅ |
-| Day 16 | #2904 | Shortest and Lexicographically Smallest Beautiful String | Medium | ✅ |
-| Day 17 | — | Lexicographically Smallest Permutation Greater Than Target | — | ✅ |
-| Day 18 | — | Lexicographically Smallest Palindromic Permutation | — | ✅ |
-| Day 19 | #2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | ✅ |
+| Day    | LeetCode | Problem                                                     | Difficulty | Status |
+| ------ | -------- | ----------------------------------------------------------- | ---------- | ------ |
+| Day 01 | #2996    | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy       | ✅      |
+| Day 02 | #2958    | Length of Longest Subarray With at Most K Frequency         | Medium     | ✅      |
+| Day 03 | #2213    | Longest Substring of One Repeating Character                | Hard       | ✅      |
+| Day 04 | #3090    | Maximum Length Substring With Two Occurrences               | Easy       | ✅      |
+| Day 05 | —        | Longest Subsequence With Non-Zero Bitwise XOR               | —          | ✅      |
+| Day 06 | #2029    | Stone Game IX                                               | Medium     | ✅      |
+| Day 07 | #1563    | Stone Game V                                                | Hard       | ✅      |
+| Day 08 | —        | Largest Integer                                             | —          | ✅      |
+| Day 09 | #1386    | Cinema Seat Allocation                                      | Medium     | ✅      |
+| Day 10 | #3069    | Distribute Elements Into Two Arrays I                       | Easy       | ✅      |
+| Day 11 | #3116    | Kth Smallest Amount With Single Denomination Combination    | Hard       | ✅      |
+| Day 12 | #3622    | Check Divisibility by Digit Sum and Product                 | Easy       | ✅      |
+| Day 13 | #1927    | Sum Game                                                    | Medium     | ✅      |
+| Day 14 | #1872    | Stone Game VIII                                             | Hard       | ✅      |
+| Day 15 | #3718    | Smallest Missing Multiple of K                              | Easy       | ✅      |
+| Day 16 | #2904    | Shortest and Lexicographically Smallest Beautiful String    | Medium     | ✅      |
+| Day 17 | —        | Lexicographically Smallest Permutation Greater Than Target  | —          | ✅      |
+| Day 18 | —        | Lexicographically Smallest Palindromic Permutation          | —          | ✅      |
+| Day 19 | #2948    | Make Lexicographically Smallest Array by Swapping Elements  | Medium     | ✅      |
+| Day 20 | #2091    | Removing Minimum and Maximum From Array                     | Medium     | ✅      |
 
 ## 📁 Solutions
 
-- [Day 01 - Smallest Missing Integer](Day-01-Smallest-Missing-Integer/)
-- [Day 02 - Length of Longest Subarray With at Most K Frequency](Day-02-Length-of-Longest-Subarray-With-at-Most-K-Frequency/)
-- [Day 03 - Longest Substring of One Repeating Character](Day-03-Longest-Substring-of-One-Repeating-Character/)
-- [Day 04 - Maximum Length Substring With Two Occurrences](Day-04-Maximum-Length-Substring-With-Two-Occurrences/)
-- [Day 05 - Longest Subsequence With Non-Zero Bitwise XOR](Day-05-Longest-Subsequence-With-Non-Zero-Bitwise-XOR/)
-- [Day 06 - Stone Game IX](Day-06-Stone-Game-IX/)
-- [Day 07 - Stone Game V](Day-07-Stone-Game-V/)
-- [Day 08 - Largest Integer](Day-08-Largest-Integer/)
-- [Day 09 - Cinema Seat Allocation](Day-09-Cinema-Seat-Allocation/)
-- [Day 10 - Distribute Elements Into Two Arrays I](Day-10-Distribute-Elements-Into-Two-Arrays-I/)
-- [Day 11 - Kth Smallest Amount With Single Denomination Combination](Day-11-Kth-Smallest-Amount-With-Single-Denomination-Combination/)
-- [Day 12 - Check Divisibility by Digit Sum and Product](Day-12-Check-Divisibility-by-Digit-Sum-and-Product/)
-- [Day 13 - Sum Game](Day-13-Sum-Game/)
-- [Day 14 - Stone Game VIII](Day-14-Stone-Game-VIII/)
-- [Day 15 - Smallest Missing Multiple of K](Day-15-Smallest-Missing-Multiple-of-K/)
-- [Day 16 - Shortest and Lexicographically Smallest Beautiful String](Day-16-Shortest-and-Lexicographically-Smallest-Beautiful-String/)
-- [Day 17 - Lexicographically Smallest Permutation Greater Than Target](Day-17-Lexicographically-Smallest-Permutation-Greater-Than-Target/)
-- [Day 18 - Lexicographically Smallest Palindromic Permutation](Day-18-Lexicographically-Smallest-Palindromic-Permutation/)
-- [Day 19 - Make Lexicographically Smallest Array by Swapping Elements](Day-19-Make-Lexicographically-Smallest-Array-by-Swapping-Elements/)
+* [Day 01 - Smallest Missing Integer](Day-01-Smallest-Missing-Integer/)
+* [Day 02 - Length of Longest Subarray With at Most K Frequency](Day-02-Length-of-Longest-Subarray-With-at-Most-K-Frequency/)
+* [Day 03 - Longest Substring of One Repeating Character](Day-03-Longest-Substring-of-One-Repeating-Character/)
+* [Day 04 - Maximum Length Substring With Two Occurrences](Day-04-Maximum-Length-Substring-With-Two-Occurrences/)
+* [Day 05 - Longest Subsequence With Non-Zero Bitwise XOR](Day-05-Longest-Subsequence-With-Non-Zero-Bitwise-XOR/)
+* [Day 06 - Stone Game IX](Day-06-Stone-Game-IX/)
+* [Day 07 - Stone Game V](Day-07-Stone-Game-V/)
+* [Day 08 - Largest Integer](Day-08-Largest-Integer/)
+* [Day 09 - Cinema Seat Allocation](Day-09-Cinema-Seat-Allocation/)
+* [Day 10 - Distribute Elements Into Two Arrays I](Day-10-Distribute-Elements-Into-Two-Arrays-I/)
+* [Day 11 - Kth Smallest Amount With Single Denomination Combination](Day-11-Kth-Smallest-Amount-With-Single-Denomination-Combination/)
+* [Day 12 - Check Divisibility by Digit Sum and Product](Day-12-Check-Divisibility-by-Digit-Sum-and-Product/)
+* [Day 13 - Sum Game](Day-13-Sum-Game/)
+* [Day 14 - Stone Game VIII](Day-14-Stone-Game-VIII/)
+* [Day 15 - Smallest Missing Multiple of K](Day-15-Smallest-Missing-Multiple-of-K/)
+* [Day 16 - Shortest and Lexicographically Smallest Beautiful String](Day-16-Shortest-and-Lexicographically-Smallest-Beautiful-String/)
+* [Day 17 - Lexicographically Smallest Permutation Greater Than Target](Day-17-Lexicographically-Smallest-Permutation-Greater-Than-Target/)
+* [Day 18 - Lexicographically Smallest Palindromic Permutation](Day-18-Lexicographically-Smallest-Palindromic-Permutation/)
+* [Day 19 - Make Lexicographically Smallest Array by Swapping Elements](Day-19-Make-Lexicographically-Smallest-Array-by-Swapping-Elements/)
+* [Day 20 - Minimum Deletions to Remove Minimum and Maximum](Day-20-Minimum-Deletions-to-Remove-Minimum-and-Maximum/)
 
 ## 🔥 Progress
 
-**19 Days Completed!**
+**20 Days Completed!**
 
 I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 
 ## 🎯 Goal
 
-- Improve problem-solving skills
-- Strengthen C++ fundamentals
-- Learn Data Structures & Algorithms
-- Maintain a consistent coding habit
-- Build a strong GitHub DSA portfolio
+* Improve problem-solving skills
+* Strengthen C++ fundamentals
+* Learn Data Structures & Algorithms
+* Maintain a consistent coding habit
+* Build a strong GitHub DSA portfolio
 
 ## 💻 Language
 
@@ -68,18 +70,18 @@ I am solving LeetCode problems consistently to improve my C++ and DSA skills.
 
 ## 📚 Topics
 
-- Arrays
-- Strings
-- Hashing
-- Sliding Window
-- Sorting
-- Greedy
-- Dynamic Programming
-- Prefix Sum
-- Binary Search
-- Game Theory
-- Bit Manipulation
-- Data Structures & Algorithms
-- Problem Solving
+* Arrays
+* Strings
+* Hashing
+* Sliding Window
+* Sorting
+* Greedy
+* Dynamic Programming
+* Prefix Sum
+* Binary Search
+* Game Theory
+* Bit Manipulation
+* Data Structures & Algorithms
+* Problem Solving
 
 > One problem a day. One step closer to becoming a better developer. 🚀
