@@ -21,13 +21,14 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 13 | Sum Game                                                    | Medium     | ✅      |
 | Day 14 | Stone Game VIII                                             | Hard       | ✅      |
 | Day 15 | Smallest Missing Multiple of K                              | Easy       | ✅      |
-| Day 16 | Shortest and Lexicographically Smallest Beautiful String    | Medium     | ✅      |
+| Day 16 | Shortest Beautiful Substring                                | Medium     | ✅      |
 | Day 17 | Lexicographically Smallest Permutation Greater Than Target  | —          | ✅      |
 | Day 18 | Lexicographically Smallest Palindromic Permutation          | —          | ✅      |
 | Day 19 | Make Lexicographically Smallest Array by Swapping Elements  | Medium     | ✅      |
 | Day 20 | Minimum Deletions to Remove Minimum and Maximum             | Medium     | ✅      |
 | Day 21 | Construct Uniform Parity Array II                           | —          | ✅      |
 | Day 22 | First Stable Index                                          | —          | ✅      |
+| Day 23 | Distinct Subsequences                                       | Hard       | ✅      |
 
 ## 📁 Solutions
 
@@ -46,17 +47,18 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 13 - Sum Game](Day-13-Sum-Game/)
 * [Day 14 - Stone Game VIII](Day-14-Stone-Game-VIII/)
 * [Day 15 - Smallest Missing Multiple of K](Day-15-Smallest-Missing-Multiple-of-K/)
-* [Day 16 - Shortest and Lexicographically Smallest Beautiful String](Day-16-Shortest-and-Lexicographically-Smallest-Beautiful-String/)
+* [Day 16 - Shortest Beautiful Substring](Day-16-Shortest-Beautiful-Substring/)
 * [Day 17 - Lexicographically Smallest Permutation Greater Than Target](Day-17-Lexicographically-Smallest-Permutation-Greater-Than-Target/)
 * [Day 18 - Lexicographically Smallest Palindromic Permutation](Day-18-Lexicographically-Smallest-Palindromic-Permutation/)
 * [Day 19 - Make Lexicographically Smallest Array by Swapping Elements](Day-19-Make-Lexicographically-Smallest-Array-by-Swapping-Elements/)
 * [Day 20 - Minimum Deletions to Remove Minimum and Maximum](Day-20-Minimum-Deletions-to-Remove-Minimum-and-Maximum/)
 * [Day 21 - Construct Uniform Parity Array II](Day-21-Construct-Uniform-Parity-Array-II/)
 * [Day 22 - First Stable Index](Day-22-First-Stable-Index/)
+* [Day 23 - Distinct Subsequences](Day-23-Distinct-Subsequences/)
 
 ## 🔥 Progress
 
-**22 Days Completed!**
+**23 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
@@ -77,6 +79,7 @@ Solving LeetCode problems consistently to improve my C++ and Data Structures & A
 * Arrays
 * Strings
 * Hashing
+* Sliding Window
 * Sorting
 * Greedy
 * Dynamic Programming
