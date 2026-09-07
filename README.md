@@ -29,6 +29,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 21 | Construct Uniform Parity Array II                           | —          | ✅      |
 | Day 22 | First Stable Index                                          | —          | ✅      |
 | Day 23 | Distinct Subsequences                                       | Hard       | ✅      |
+| Day 24 | Distinct Subsequences II                                    | Hard       | ✅      |
 
 ## 📁 Solutions
 
@@ -55,10 +56,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 21 - Construct Uniform Parity Array II](Day-21-Construct-Uniform-Parity-Array-II/)
 * [Day 22 - First Stable Index](Day-22-First-Stable-Index/)
 * [Day 23 - Distinct Subsequences](Day-23-Distinct-Subsequences/)
+* [Day 24 - Distinct Subsequences II](Day-24-Distinct-Subsequences-II/)
 
 ## 🔥 Progress
 
-**23 Days Completed!**
+**24 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
