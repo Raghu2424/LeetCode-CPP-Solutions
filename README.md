@@ -30,6 +30,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 22 | First Stable Index                                          | —          | ✅      |
 | Day 23 | Distinct Subsequences                                       | Hard       | ✅      |
 | Day 24 | Distinct Subsequences II                                    | Hard       | ✅      |
+| Day 25 | Count Commas in Range                                       | Easy       | ✅      |
 
 ## 📁 Solutions
 
@@ -57,10 +58,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 22 - First Stable Index](Day-22-First-Stable-Index/)
 * [Day 23 - Distinct Subsequences](Day-23-Distinct-Subsequences/)
 * [Day 24 - Distinct Subsequences II](Day-24-Distinct-Subsequences-II/)
+* [Day 25 - Count Commas in Range](Day-25-3870-Count-Commas-in-Range/)
 
 ## 🔥 Progress
 
-**24 Days Completed!**
+**25 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
