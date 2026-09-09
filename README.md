@@ -31,6 +31,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 23 | Distinct Subsequences                                       | Hard       | ✅      |
 | Day 24 | Distinct Subsequences II                                    | Hard       | ✅      |
 | Day 25 | Count Commas in Range                                       | Easy       | ✅      |
+| Day 26 | Count Commas in Range                                       | Easy       | ✅      |
 
 ## 📁 Solutions
 
@@ -59,10 +60,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 23 - Distinct Subsequences](Day-23-Distinct-Subsequences/)
 * [Day 24 - Distinct Subsequences II](Day-24-Distinct-Subsequences-II/)
 * [Day 25 - Count Commas in Range](Day-25-3870-Count-Commas-in-Range/)
+* [Day 26 - Count Commas in Range](Day-26-3870-Count-Commas-in-Range/)
 
 ## 🔥 Progress
 
-**25 Days Completed!**
+**26 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
