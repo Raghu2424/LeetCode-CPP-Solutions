@@ -33,6 +33,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 25 | Count Commas in Range                                       | Easy       | ✅      |
 | Day 26 | Count Commas in Range                                       | Easy       | ✅      |
 | Day 27 | Average of Subtree                                          | Easy       | ✅      |
+| Day 28 | Total Numbers                                               | Medium     | ✅      |
 
 ## 📁 Solutions
 
@@ -63,10 +64,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 25 - Count Commas in Range](Day-25-3870-Count-Commas-in-Range/)
 * [Day 26 - Count Commas in Range](Day-26-3870-Count-Commas-in-Range/)
 * [Day 27 - Average of Subtree](Day-27-2265-Average-of-Subtree/)
+* [Day 28 - Total Numbers](Day-28-Total-Numbers/)
 
 ## 🔥 Progress
 
-**27 Days Completed!**
+**28 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
@@ -99,4 +101,4 @@ Solving LeetCode problems consistently to improve my C++ and Data Structures & A
 * Data Structures & Algorithms
 * Problem Solving
 
-> One problem a day. One step closer to becoming a better developer. 🚀
+> One problem a day. One step closer to becoming a
