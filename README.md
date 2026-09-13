@@ -35,6 +35,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 27 | Average of Subtree                                          | Easy       | ✅      |
 | Day 28 | Total Numbers                                               | Medium     | ✅      |
 | Day 29 | Maximum Weight                                              | Hard       | ✅      |
+| Day 30 | Image Overlap                                               | Medium     | ✅      |
 
 ## 📁 Solutions
 
@@ -67,10 +68,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 27 - Average of Subtree](Day-27-2265-Average-of-Subtree/)
 * [Day 28 - Total Numbers](Day-28-Total-Numbers/)
 * [Day 29 - Maximum Weight](Day-29-Maximum-Weight/)
+* [Day 30 - Image Overlap](Day-30-Image-Overlap/)
 
 ## 🔥 Progress
 
-**29 Days Completed!**
+**30 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
