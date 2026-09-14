@@ -36,6 +36,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 28 | Total Numbers                                               | Medium     | ✅      |
 | Day 29 | Maximum Weight                                              | Hard       | ✅      |
 | Day 30 | Image Overlap                                               | Medium     | ✅      |
+| Day 31 | Rectangle Overlap                                           | Easy       | ✅      |
 
 ## 📁 Solutions
 
@@ -69,10 +70,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 28 - Total Numbers](Day-28-Total-Numbers/)
 * [Day 29 - Maximum Weight](Day-29-Maximum-Weight/)
 * [Day 30 - Image Overlap](Day-30-Image-Overlap/)
+* [Day 31 - Rectangle Overlap](Day-31-Rectangle-Overlap/)
 
 ## 🔥 Progress
 
-**30 Days Completed!**
+**31 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
