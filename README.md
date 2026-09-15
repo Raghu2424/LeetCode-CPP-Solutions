@@ -37,6 +37,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 29 | Maximum Weight                                              | Hard       | ✅      |
 | Day 30 | Image Overlap                                               | Medium     | ✅      |
 | Day 31 | Rectangle Overlap                                           | Easy       | ✅      |
+| Day 32 | Maximum Number of Non-overlapping Palindrome Substrings     | Medium     | ✅      |
 
 ## 📁 Solutions
 
@@ -71,10 +72,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 29 - Maximum Weight](Day-29-Maximum-Weight/)
 * [Day 30 - Image Overlap](Day-30-Image-Overlap/)
 * [Day 31 - Rectangle Overlap](Day-31-Rectangle-Overlap/)
+* [Day 32 - Maximum Number of Non-overlapping Palindrome Substrings](Day-32-Maximum-Number-of-Non-overlapping-Palindrome-Substrings/)
 
 ## 🔥 Progress
 
-**31 Days Completed!**
+**32 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
