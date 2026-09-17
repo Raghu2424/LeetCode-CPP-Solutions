@@ -39,6 +39,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 31 | Rectangle Overlap                                           | Easy       | ✅      |
 | Day 32 | Maximum Number of Non-overlapping Palindrome Substrings     | Medium     | ✅      |
 | Day 33 | Number of Sets of K Non-Overlapping Line Segments           | Medium     | ✅      |
+| Day 34 | Find Two Non-overlapping Sub-arrays Each With Target Sum    | Medium     | ✅      |
 
 ## 📁 Solutions
 
@@ -75,10 +76,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 31 - Rectangle Overlap](Day-31-Rectangle-Overlap/)
 * [Day 32 - Maximum Number of Non-overlapping Palindrome Substrings](Day-32-Maximum-Number-of-Non-overlapping-Palindrome-Substrings/)
 * [Day 33 - Number of Sets of K Non-Overlapping Line Segments](Day-33-Number-of-Sets-of-K-Non-Overlapping-Line-Segments/)
+* [Day 34 - Find Two Non-overlapping Sub-arrays Each With Target Sum](Day-34-Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum/)
 
 ## 🔥 Progress
 
-**33 Days Completed!**
+**34 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
