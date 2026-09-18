@@ -75,4 +75,45 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 29 - Maximum Weight](Day-29-Maximum-Weight/)
 * [Day 30 - Image Overlap](Day-30-Image-Overlap/)
 * [Day 31 - Rectangle Overlap](Day-31-Rectangle-Overlap/)
-* [Day 32 - Maximum Number of Non-overlapping Pal]()
+* [Day 32 - Maximum Number of Non-overlapping Palindrome Substrings](Day-32-Maximum-Number-of-Non-overlapping-Palindrome-Substrings/)
+* [Day 33 - Number of Sets of K Non-Overlapping Line Segments](Day-33-Number-of-Sets-of-K-Non-Overlapping-Line-Segments/)
+* [Day 34 - Find Two Non-overlapping Sub-arrays Each With Target Sum](Day-34-Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum/)
+* [Day 35 - Maximum Number of Non-overlapping Substrings](Day-35-Maximum-Number-of-Non-overlapping-Substrings/)
+
+## 🔥 Progress
+
+**35 Days Completed!**
+
+Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
+
+## 🎯 Goal
+
+* Improve problem-solving skills
+* Strengthen C++ fundamentals
+* Learn Data Structures & Algorithms
+* Maintain a consistent coding habit
+* Build a strong GitHub DSA portfolio
+
+## 💻 Language
+
+**C++**
+
+## 📚 Topics
+
+* Arrays
+* Strings
+* Hashing
+* Sliding Window
+* Sorting
+* Greedy
+* Dynamic Programming
+* Prefix Sum
+* Binary Search
+* Bit Manipulation
+* Game Theory
+* Trees
+* Intervals
+* Data Structures & Algorithms
+* Problem Solving
+
+> One problem a day. One step closer to becoming a better developer. 🚀
