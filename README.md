@@ -42,6 +42,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 34 | Find Two Non-overlapping Sub-arrays Each With Target Sum    | Medium     | ✅      |
 | Day 35 | Maximum Number of Non-overlapping Substrings                | Medium     | ✅      |
 | Day 36 | Circle and Rectangle Overlapping                            | Medium     | ✅      |
+| Day 37 | Reverse Degree of a String                                  | Easy       | ✅      |
 
 ## 📁 Solutions
 
@@ -81,10 +82,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 34 - Find Two Non-overlapping Sub-arrays Each With Target Sum](Day-34-Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum/)
 * [Day 35 - Maximum Number of Non-overlapping Substrings](Day-35-Maximum-Number-of-Non-overlapping-Substrings/)
 * [Day 36 - Circle and Rectangle Overlapping](Day-36-Circle-and-Rectangle-Overlapping/)
+* [Day 37 - Reverse Degree of a String](Day-37-Reverse-Degree-of-a-String/)
 
 ## 🔥 Progress
 
-**36 Days Completed!**
+**37 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
