@@ -43,6 +43,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 35 | Maximum Number of Non-overlapping Substrings                | Medium     | ✅      |
 | Day 36 | Circle and Rectangle Overlapping                            | Medium     | ✅      |
 | Day 37 | Reverse Degree of a String                                  | Easy       | ✅      |
+| Day 38 | Subarray Product Queries                                    | Medium     | ✅      |
 
 ## 📁 Solutions
 
@@ -83,10 +84,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 35 - Maximum Number of Non-overlapping Substrings](Day-35-Maximum-Number-of-Non-overlapping-Substrings/)
 * [Day 36 - Circle and Rectangle Overlapping](Day-36-Circle-and-Rectangle-Overlapping/)
 * [Day 37 - Reverse Degree of a String](Day-37-Reverse-Degree-of-a-String/)
+* [Day 38 - Subarray Product Queries](Day-38-Subarray-Product-Queries/)
 
 ## 🔥 Progress
 
-**37 Days Completed!**
+**38 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
