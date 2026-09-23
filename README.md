@@ -45,10 +45,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 37 | Reverse Degree of a String                                  | Easy       | ✅      |
 | Day 38 | Subarray Product Queries                                    | Medium     | ✅      |
 | Day 39 | Subarray Product Queries                                    | Hard       | ✅      |
+| Day 40 | Minimum Operations to Reduce X to Zero                      | Medium     | ✅      |
 
 ## 📁 Solutions
 
-* [Day 01 - Smallest Missing Integer](Day-01-Smallest-Missing-Integer/)
+* [Day 01 - Smallest Missing Integer Greater Than Sequential Prefix Sum](Day-01-Smallest-Missing-Integer-Greater-Than-Sequential-Prefix-Sum/)
 * [Day 02 - Length of Longest Subarray With at Most K Frequency](Day-02-Length-of-Longest-Subarray-With-at-Most-K-Frequency/)
 * [Day 03 - Longest Substring of One Repeating Character](Day-03-Longest-Substring-of-One-Repeating-Character/)
 * [Day 04 - Maximum Length Substring With Two Occurrences](Day-04-Maximum-Length-Substring-With-Two-Occurrences/)
@@ -72,9 +73,9 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 22 - First Stable Index](Day-22-First-Stable-Index/)
 * [Day 23 - Distinct Subsequences](Day-23-Distinct-Subsequences/)
 * [Day 24 - Distinct Subsequences II](Day-24-Distinct-Subsequences-II/)
-* [Day 25 - Count Commas in Range](Day-25-3870-Count-Commas-in-Range/)
-* [Day 26 - Count Commas in Range](Day-26-3870-Count-Commas-in-Range/)
-* [Day 27 - Average of Subtree](Day-27-2265-Average-of-Subtree/)
+* [Day 25 - Count Commas in Range](Day-25-Count-Commas-in-Range/)
+* [Day 26 - Count Commas in Range](Day-26-Count-Commas-in-Range/)
+* [Day 27 - Average of Subtree](Day-27-Average-of-Subtree/)
 * [Day 28 - Total Numbers](Day-28-Total-Numbers/)
 * [Day 29 - Maximum Weight](Day-29-Maximum-Weight/)
 * [Day 30 - Image Overlap](Day-30-Image-Overlap/)
@@ -87,10 +88,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 37 - Reverse Degree of a String](Day-37-Reverse-Degree-of-a-String/)
 * [Day 38 - Subarray Product Queries](Day-38-Subarray-Product-Queries/)
 * [Day 39 - Subarray Product Queries](Day-39-Subarray-Product-Queries/)
+* [Day 40 - Minimum Operations to Reduce X to Zero](Day-40-Minimum-Operations-to-Reduce-X-to-Zero/)
 
 ## 🔥 Progress
 
-**39 Days Completed!**
+**40 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
