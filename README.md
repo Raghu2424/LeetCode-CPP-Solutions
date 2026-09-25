@@ -47,6 +47,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 39 | Subarray Product Queries                                    | Hard       | ✅      |
 | Day 40 | Minimum Operations to Reduce X to Zero                      | Medium     | ✅      |
 | Day 41 | Smallest Index With Digit Sum Equal to Index                | Easy       | ✅      |
+| Day 42 | Brace Expansion II                                          | Hard       | ✅      |
 
 ## 📁 Solutions
 
@@ -91,10 +92,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 39 - Subarray Product Queries](Day-39-Subarray-Product-Queries/)
 * [Day 40 - Minimum Operations to Reduce X to Zero](Day-40-Minimum-Operations-to-Reduce-X-to-Zero/)
 * [Day 41 - Smallest Index With Digit Sum Equal to Index](Day-41-Smallest-Index-With-Digit-Sum-Equal-to-Index/)
+* [Day 42 - Brace Expansion II](Day-42-Brace-Expansion-II/)
 
 ## 🔥 Progress
 
-**41 Days Completed!**
+**42 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
