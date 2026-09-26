@@ -48,6 +48,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 40 | Minimum Operations to Reduce X to Zero                      | Medium     | ✅      |
 | Day 41 | Smallest Index With Digit Sum Equal to Index                | Easy       | ✅      |
 | Day 42 | Brace Expansion II                                          | Hard       | ✅      |
+| Day 43 | Evaluate the Bracket Pairs of a String                      | Medium     | ✅      |
 
 ## 📁 Solutions
 
@@ -93,10 +94,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 40 - Minimum Operations to Reduce X to Zero](Day-40-Minimum-Operations-to-Reduce-X-to-Zero/)
 * [Day 41 - Smallest Index With Digit Sum Equal to Index](Day-41-Smallest-Index-With-Digit-Sum-Equal-to-Index/)
 * [Day 42 - Brace Expansion II](Day-42-Brace-Expansion-II/)
+* [Day 43 - Evaluate the Bracket Pairs of a String](Day-43-Evaluate-the-Bracket-Pairs-of-a-String/)
 
 ## 🔥 Progress
 
-**42 Days Completed!**
+**43 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
