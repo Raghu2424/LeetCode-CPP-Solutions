@@ -49,6 +49,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 41 | Smallest Index With Digit Sum Equal to Index                | Easy       | ✅      |
 | Day 42 | Brace Expansion II                                          | Hard       | ✅      |
 | Day 43 | Evaluate the Bracket Pairs of a String                      | Medium     | ✅      |
+| Day 44 | Valid Parentheses Path                                      | Medium     | ✅      |
 
 ## 📁 Solutions
 
@@ -95,10 +96,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 41 - Smallest Index With Digit Sum Equal to Index](Day-41-Smallest-Index-With-Digit-Sum-Equal-to-Index/)
 * [Day 42 - Brace Expansion II](Day-42-Brace-Expansion-II/)
 * [Day 43 - Evaluate the Bracket Pairs of a String](Day-43-Evaluate-the-Bracket-Pairs-of-a-String/)
+* [Day 44 - Valid Parentheses Path](Day-44-Valid-Parentheses-Path/)
 
 ## 🔥 Progress
 
-**43 Days Completed!**
+**44 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
@@ -130,6 +132,8 @@ Solving LeetCode problems consistently to improve my C++ and Data Structures & A
 * Trees
 * Intervals
 * Segment Tree
+* Recursion
+* Memoization
 * Data Structures & Algorithms
 * Problem Solving
 
