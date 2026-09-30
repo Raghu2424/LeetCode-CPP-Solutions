@@ -50,6 +50,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 42 | Brace Expansion II                                          | Hard       | ✅      |
 | Day 43 | Evaluate the Bracket Pairs of a String                      | Medium     | ✅      |
 | Day 44 | Valid Parentheses Path                                      | Medium     | ✅      |
+| Day 45 | Maximum Nesting Depth of Two-Valid Parentheses Strings      | Medium     | ✅      |
 
 ## 📁 Solutions
 
@@ -97,10 +98,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 42 - Brace Expansion II](Day-42-Brace-Expansion-II/)
 * [Day 43 - Evaluate the Bracket Pairs of a String](Day-43-Evaluate-the-Bracket-Pairs-of-a-String/)
 * [Day 44 - Valid Parentheses Path](Day-44-Valid-Parentheses-Path/)
+* [Day 45 - Maximum Nesting Depth of Two-Valid Parentheses Strings](Day-45-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/)
 
 ## 🔥 Progress
 
-**44 Days Completed!**
+**45 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
