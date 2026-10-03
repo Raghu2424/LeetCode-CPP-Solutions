@@ -53,6 +53,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 45 | Maximum Nesting Depth of Two-Valid Parentheses Strings      | Medium     | ✅      |
 | Day 46 | Valid Parentheses                                           | Easy       | ✅      |
 | Day 47 | Generate Parentheses                                        | Medium     | ✅      |
+| Day 48 | Longest Valid Parentheses                                   | Hard       | ✅      |
 
 ## 📁 Solutions
 
@@ -103,10 +104,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 45 - Maximum Nesting Depth of Two-Valid Parentheses Strings](Day-45-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/)
 * [Day 46 - Valid Parentheses](Day-46-Valid-Parentheses/)
 * [Day 47 - Generate Parentheses](Day-47-Generate-Parentheses/)
+* [Day 48 - Longest Valid Parentheses](Day-48-Longest-Valid-Parentheses/)
 
 ## 🔥 Progress
 
-**47 Days Completed!**
+**48 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
