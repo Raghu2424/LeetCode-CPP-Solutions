@@ -55,6 +55,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 47 | Generate Parentheses                                        | Medium     | ✅      |
 | Day 48 | Longest Valid Parentheses                                   | Hard       | ✅      |
 | Day 49 | Valid Parenthesis String                                    | Medium     | ✅      |
+| Day 50 | Score of Parentheses                                        | Medium     | ✅      |
 
 ## 📁 Solutions
 
@@ -107,10 +108,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 47 - Generate Parentheses](Day-47-Generate-Parentheses/)
 * [Day 48 - Longest Valid Parentheses](Day-48-Longest-Valid-Parentheses/)
 * [Day 49 - Valid Parenthesis String](Day-49-Valid-Parenthesis-String/)
+* [Day 50 - Score of Parentheses](Day-50-Score-of-Parentheses/)
 
 ## 🔥 Progress
 
-**49 Days Completed!**
+**50 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
