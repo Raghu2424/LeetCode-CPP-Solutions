@@ -58,6 +58,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 50 | Score of Parentheses                                        | Medium     | ✅      |
 | Day 51 | Minimum Add to Make Parentheses Valid                       | Medium     | ✅      |
 | Day 52 | Remove Invalid Parentheses                                  | Hard       | ✅      |
+| Day 53 | Remove Outermost Parentheses                                | Easy       | ✅      |
 
 ## 📁 Solutions
 
@@ -113,10 +114,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 50 - Score of Parentheses](Day-50-Score-of-Parentheses/)
 * [Day 51 - Minimum Add to Make Parentheses Valid](Day-51-Minimum-Add-to-Make-Parentheses-Valid/)
 * [Day 52 - Remove Invalid Parentheses](Day-52-Remove-Invalid-Parentheses/)
+* [Day 53 - Remove Outermost Parentheses](Day-53-Remove-Outermost-Parentheses/)
 
 ## 🔥 Progress
 
-**52 Days Completed!**
+**53 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
