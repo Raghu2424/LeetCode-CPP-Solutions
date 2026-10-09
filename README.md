@@ -59,6 +59,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 51 | Minimum Add to Make Parentheses Valid                       | Medium     | ✅      |
 | Day 52 | Remove Invalid Parentheses                                  | Hard       | ✅      |
 | Day 53 | Remove Outermost Parentheses                                | Easy       | ✅      |
+| Day 54 | Minimum Insertions to Balance a Parentheses String          | Medium     | ✅      |
 
 ## 📁 Solutions
 
@@ -115,10 +116,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 * [Day 51 - Minimum Add to Make Parentheses Valid](Day-51-Minimum-Add-to-Make-Parentheses-Valid/)
 * [Day 52 - Remove Invalid Parentheses](Day-52-Remove-Invalid-Parentheses/)
 * [Day 53 - Remove Outermost Parentheses](Day-53-Remove-Outermost-Parentheses/)
+* [Day 54 - Minimum Insertions to Balance a Parentheses String](Day-54-Minimum-Insertions-to-Balance-a-Parentheses-String/)
 
 ## 🔥 Progress
 
-**53 Days Completed!**
+**54 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
