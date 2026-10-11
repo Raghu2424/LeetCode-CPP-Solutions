@@ -61,6 +61,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 53 | Remove Outermost Parentheses | Easy | ✅ |
 | Day 54 | Minimum Insertions to Balance a Parentheses String | Medium | ✅ |
 | Day 55 | Minimum Sum of Squared Difference | Medium | ✅ |
+| Day 56 | Sum of Squares of Special Elements | Easy | ✅ |
 
 ## 📁 Solutions
 
@@ -119,10 +120,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 53 - Remove Outermost Parentheses](Day-53-Remove-Outermost-Parentheses/)
 - [Day 54 - Minimum Insertions to Balance a Parentheses String](Day-54-Minimum-Insertions-to-Balance-a-Parentheses-String/)
 - [Day 55 - Minimum Sum of Squared Difference](Day-55-Minimum-Sum-of-Squared-Difference/)
+- [Day 56 - Sum of Squares of Special Elements](Day-56-Sum-of-Squares-of-Special-Elements/)
 
 ## 🔥 Progress
 
-**55 Days Completed!**
+**56 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
