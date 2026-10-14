@@ -64,6 +64,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 56 | Sum of Squares of Special Elements | Easy | ✅ |
 | Day 57 | Maximize Sum of Squares of Special Numbers | Medium | ✅ |
 | Day 58 | Maximum Alternating Sum of Squares | Medium | ✅ |
+| Day 59 | Maximize Sum of Squares of Digits | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -125,10 +126,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 56 - Sum of Squares of Special Elements](Day-56-Sum-of-Squares-of-Special-Elements/)
 - [Day 57 - Maximize Sum of Squares of Special Numbers](Day-57-Maximize-Sum-of-Squares-of-Special-Numbers/)
 - [Day 58 - Maximum Alternating Sum of Squares](Day-58-Maximum-Alternating-Sum-of-Squares/)
+- [Day 59 - Maximize Sum of Squares of Digits](Day-59-Maximize-Sum-of-Squares-of-Digits/)
 
 ## 🔥 Progress
 
-**58 Days Completed!**
+**59 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
@@ -164,7 +166,7 @@ Solving LeetCode problems consistently to improve my C++ and Data Structures & A
 - Recursion
 - Backtracking
 - Memoization
-- Greedy / Two Pointers
+- Two Pointers
 - Data Structures & Algorithms
 - Problem Solving
 
