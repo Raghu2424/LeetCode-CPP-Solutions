@@ -66,6 +66,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 58 | Maximum Alternating Sum of Squares | Medium | ✅ |
 | Day 59 | Maximize Sum of Squares of Digits | Medium | ✅ |
 | Day 60 | Sum of Counts of Subarrays With Distinct Elements | Medium | ✅ |
+| Day 61 | Minimum Swaps to Sort by Digit Sum | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -129,10 +130,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 58 - Maximum Alternating Sum of Squares](Day-58-Maximum-Alternating-Sum-of-Squares/)
 - [Day 59 - Maximize Sum of Squares of Digits](Day-59-Maximize-Sum-of-Squares-of-Digits/)
 - [Day 60 - Sum of Counts of Subarrays With Distinct Elements](Day-60-Sum-of-Counts-of-Subarrays-With-Distinct-Elements/)
+- [Day 61 - Minimum Swaps to Sort by Digit Sum](Day-61-Minimum-Swaps-to-Sort-by-Digit-Sum/)
 
 ## 🔥 Progress
 
-**60 Days Completed!**
+**61 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
