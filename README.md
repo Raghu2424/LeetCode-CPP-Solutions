@@ -67,6 +67,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 59 | Maximize Sum of Squares of Digits | Medium | ✅ |
 | Day 60 | Sum of Counts of Subarrays With Distinct Elements | Medium | ✅ |
 | Day 61 | Minimum Swaps to Sort by Digit Sum | Medium | ✅ |
+| Day 62 | Number of Ways to Reorder Array to Get Same BST | Hard | ✅ |
 
 ## 📁 Solutions
 
@@ -131,10 +132,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 59 - Maximize Sum of Squares of Digits](Day-59-Maximize-Sum-of-Squares-of-Digits/)
 - [Day 60 - Sum of Counts of Subarrays With Distinct Elements](Day-60-Sum-of-Counts-of-Subarrays-With-Distinct-Elements/)
 - [Day 61 - Minimum Swaps to Sort by Digit Sum](Day-61-Minimum-Swaps-to-Sort-by-Digit-Sum/)
+- [Day 62 - Number of Ways to Reorder Array to Get Same BST](Day-62-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST/)
 
 ## 🔥 Progress
 
-**61 Days Completed!**
+**62 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
