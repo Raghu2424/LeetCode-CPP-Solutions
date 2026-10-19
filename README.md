@@ -50,7 +50,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 42 | Brace Expansion II | Hard | ✅ |
 | Day 43 | Evaluate the Bracket Pairs of a String | Medium | ✅ |
 | Day 44 | Valid Parentheses Path | Medium | ✅ |
-| Day 45 | Maximum Nesting Depth of Two-Valid Parentheses Strings | Medium | ✅ |
+| Day 45 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | ✅ |
 | Day 46 | Valid Parentheses | Easy | ✅ |
 | Day 47 | Generate Parentheses | Medium | ✅ |
 | Day 48 | Longest Valid Parentheses | Hard | ✅ |
@@ -68,6 +68,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 60 | Sum of Counts of Subarrays With Distinct Elements | Medium | ✅ |
 | Day 61 | Minimum Swaps to Sort by Digit Sum | Medium | ✅ |
 | Day 62 | Number of Ways to Reorder Array to Get Same BST | Hard | ✅ |
+| Day 63 | Find Target Indices After Sorting Array | Easy | ✅ |
 
 ## 📁 Solutions
 
@@ -115,7 +116,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 42 - Brace Expansion II](Day-42-Brace-Expansion-II/)
 - [Day 43 - Evaluate the Bracket Pairs of a String](Day-43-Evaluate-the-Bracket-Pairs-of-a-String/)
 - [Day 44 - Valid Parentheses Path](Day-44-Valid-Parentheses-Path/)
-- [Day 45 - Maximum Nesting Depth of Two-Valid Parentheses Strings](Day-45-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/)
+- [Day 45 - Maximum Nesting Depth of Two Valid Parentheses Strings](Day-45-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/)
 - [Day 46 - Valid Parentheses](Day-46-Valid-Parentheses/)
 - [Day 47 - Generate Parentheses](Day-47-Generate-Parentheses/)
 - [Day 48 - Longest Valid Parentheses](Day-48-Longest-Valid-Parentheses/)
@@ -133,10 +134,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 60 - Sum of Counts of Subarrays With Distinct Elements](Day-60-Sum-of-Counts-of-Subarrays-With-Distinct-Elements/)
 - [Day 61 - Minimum Swaps to Sort by Digit Sum](Day-61-Minimum-Swaps-to-Sort-by-Digit-Sum/)
 - [Day 62 - Number of Ways to Reorder Array to Get Same BST](Day-62-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST/)
+- [Day 63 - Find Target Indices After Sorting Array](Day-63-Find-Target-Indices-After-Sorting-Array/)
 
 ## 🔥 Progress
 
-**62 Days Completed!**
+**63 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
