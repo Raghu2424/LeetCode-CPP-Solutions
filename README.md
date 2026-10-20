@@ -69,6 +69,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 61 | Minimum Swaps to Sort by Digit Sum | Medium | ✅ |
 | Day 62 | Number of Ways to Reorder Array to Get Same BST | Hard | ✅ |
 | Day 63 | Find Target Indices After Sorting Array | Easy | ✅ |
+| Day 64 | Sortable Integers | — | ✅ |
 
 ## 📁 Solutions
 
@@ -135,10 +136,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 61 - Minimum Swaps to Sort by Digit Sum](Day-61-Minimum-Swaps-to-Sort-by-Digit-Sum/)
 - [Day 62 - Number of Ways to Reorder Array to Get Same BST](Day-62-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST/)
 - [Day 63 - Find Target Indices After Sorting Array](Day-63-Find-Target-Indices-After-Sorting-Array/)
+- [Day 64 - Sortable Integers](Day-64-Sortable-Integers/)
 
 ## 🔥 Progress
 
-**63 Days Completed!**
+**64 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
