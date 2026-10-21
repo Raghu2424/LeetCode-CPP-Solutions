@@ -70,6 +70,8 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 62 | Number of Ways to Reorder Array to Get Same BST | Hard | ✅ |
 | Day 63 | Find Target Indices After Sorting Array | Easy | ✅ |
 | Day 64 | Sortable Integers | — | ✅ |
+| Day 65 | Minimum Operations to Sort a String | Medium | ✅ |
+| Day 66 | Minimum Operations to Sort a String | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -137,10 +139,12 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 62 - Number of Ways to Reorder Array to Get Same BST](Day-62-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST/)
 - [Day 63 - Find Target Indices After Sorting Array](Day-63-Find-Target-Indices-After-Sorting-Array/)
 - [Day 64 - Sortable Integers](Day-64-Sortable-Integers/)
+- [Day 65 - Minimum Operations to Sort a String](Day-65-Minimum-Operations-to-Sort-a-String/)
+- [Day 66 - Minimum Operations to Sort a String](Day-66-Minimum-Operations-to-Sort-a-String/)
 
 ## 🔥 Progress
 
-**64 Days Completed!**
+**66 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
