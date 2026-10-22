@@ -71,6 +71,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 63 | Find Target Indices After Sorting Array | Easy | ✅ |
 | Day 64 | Sortable Integers | — | ✅ |
 | Day 65 | Minimum Operations to Sort a String | Medium | ✅ |
+| Day 66 | Minimum Operations to Sort an Array | — | ✅ |
 
 ## 📁 Solutions
 
@@ -139,6 +140,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 63 - Find Target Indices After Sorting Array](Day-63-Find-Target-Indices-After-Sorting-Array/)
 - [Day 64 - Sortable Integers](Day-64-Sortable-Integers/)
 - [Day 65 - Minimum Operations to Sort a String](Day-65-Minimum-Operations-to-Sort-a-String/)
+- [Day 66 - Minimum Operations to Sort an Array](Day-66-Minimum-Operations-to-Sort-an-Array/)
 
 ## 🔥 Progress
 
