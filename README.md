@@ -72,6 +72,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 64 | Sortable Integers | — | ✅ |
 | Day 65 | Minimum Operations to Sort a String | Medium | ✅ |
 | Day 66 | Sort Permutation | — | ✅ |
+| Day 67 | Sort Permutation | — | ✅ |
 
 ## 📁 Solutions
 
@@ -141,10 +142,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 64 - Sortable Integers](Day-64-Sortable-Integers/)
 - [Day 65 - Minimum Operations to Sort a String](Day-65-Minimum-Operations-to-Sort-a-String/)
 - [Day 66 - Sort Permutation](Day-66-Sort-Permutation/)
+- [Day 67 - Sort Permutation](Day-67-Sort-Permutation/)
 
 ## 🔥 Progress
 
-**66 Days Completed!**
+**67 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
