@@ -71,8 +71,8 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 63 | Find Target Indices After Sorting Array | Easy | ✅ |
 | Day 64 | Sortable Integers | — | ✅ |
 | Day 65 | Minimum Operations to Sort a String | Medium | ✅ |
-| Day 66 | Sort Permutation | — | ✅ |
-| Day 67 | Sort Permutation | — | ✅ |
+| [Day 66](https://leetcode.com/submissions/detail/2179678562/) | [Maximum K to Sort a Permutation](https://leetcode.com/submissions/detail/2179678562/) | — | ✅ |
+| [Day 67](https://leetcode.com/submissions/detail/2179096603/) | [Minimum Operations to Sort a Permutation](https://leetcode.com/submissions/detail/2179096603/) | — | ✅ |
 
 ## 📁 Solutions
 
@@ -141,8 +141,8 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 63 - Find Target Indices After Sorting Array](Day-63-Find-Target-Indices-After-Sorting-Array/)
 - [Day 64 - Sortable Integers](Day-64-Sortable-Integers/)
 - [Day 65 - Minimum Operations to Sort a String](Day-65-Minimum-Operations-to-Sort-a-String/)
-- [Day 66 - Sort Permutation](Day-66-Sort-Permutation/)
-- [Day 67 - Sort Permutation](Day-67-Sort-Permutation/)
+- [Day 66 - Maximum K to Sort a Permutation](Day-66-Maximum-K-to-Sort-a-Permutation/)
+- [Day 67 - Minimum Operations to Sort a Permutation](Day-67-Minimum-Operations-to-Sort-a-Permutation/)
 
 ## 🔥 Progress
 
