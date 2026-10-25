@@ -74,6 +74,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | [Day 66](https://leetcode.com/submissions/detail/2179678562/) | [Maximum K to Sort a Permutation](https://leetcode.com/submissions/detail/2179678562/) | — | ✅ |
 | [Day 67](https://leetcode.com/submissions/detail/2179096603/) | [Minimum Operations to Sort a Permutation](https://leetcode.com/submissions/detail/2179096603/) | — | ✅ |
 | Day 68 | [Count Days Spent Together](https://leetcode.com/problems/number-of-days-spent-together/) | Easy | ✅ |
+| Day 69 | [Closed Island](https://leetcode.com/problems/closed-island/) | Medium | ✅ |
 
 ## 📁 Solutions
 
@@ -145,10 +146,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 66 - Maximum K to Sort a Permutation](Day-66-Maximum-K-to-Sort-a-Permutation/)
 - [Day 67 - Minimum Operations to Sort a Permutation](Day-67-Minimum-Operations-to-Sort-a-Permutation/)
 - [Day 68 - Count Days Spent Together](Day-68-Count-Days-Spent-Together/)
+- [Day 69 - Closed Island](Day-69-Closed-Island/)
 
 ## 🔥 Progress
 
-**68 Days Completed!**
+**69 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
