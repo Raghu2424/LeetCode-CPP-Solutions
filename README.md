@@ -76,6 +76,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 68 | Count Days Spent Together | Easy | ✅ |
 | Day 69 | Closed Island | Medium | ✅ |
 | Day 70 | Count Islands | — | ✅ |
+| Day 71 | Create Grid | — | ✅ |
 
 ## 📁 Solutions
 
@@ -149,10 +150,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 68 - Count Days Spent Together](Day-68-Count-Days-Spent-Together/)
 - [Day 69 - Closed Island](Day-69-Closed-Island/)
 - [Day 70 - Count Islands](Day-70-Count-Islands/)
+- [Day 71 - Create Grid](Day-71-Create-Grid/)
 
 ## 🔥 Progress
 
-**70 Days Completed!**
+**71 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
