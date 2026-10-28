@@ -77,6 +77,7 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 | Day 69 | Closed Island | Medium | ✅ |
 | Day 70 | Count Islands | — | ✅ |
 | Day 71 | Create Grid | — | ✅ |
+| Day 72 | Min Cost | — | ✅ |
 
 ## 📁 Solutions
 
@@ -151,10 +152,11 @@ My daily journey of solving LeetCode problems using C++ and improving my Data St
 - [Day 69 - Closed Island](Day-69-Closed-Island/)
 - [Day 70 - Count Islands](Day-70-Count-Islands/)
 - [Day 71 - Create Grid](Day-71-Create-Grid/)
+- [Day 72 - Min Cost](Day-72-Min-Cost/)
 
 ## 🔥 Progress
 
-**71 Days Completed!**
+**72 Days Completed!**
 
 Solving LeetCode problems consistently to improve my C++ and Data Structures & Algorithms skills.
 
